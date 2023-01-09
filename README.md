@@ -1,4 +1,4 @@
-# Filmpire project
+# Filmpire - AI-Powered Movie Web Application
 
 ### Light Mode:
 <img width="800" alt="light mode" src="images/lightMode.png">
